@@ -1,3 +1,6 @@
 [submodule "wpscan"]
 	path = wpscan
 	url = https://github.com/wpscanteam/wpscan.git
+[submodule "BurpToggle"]
+	path = BurpToggle
+	url = https://github.com/melvinsh/BurpToggle.git
