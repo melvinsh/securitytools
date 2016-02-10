@@ -1,0 +1,3 @@
+echo "\nInstalling Burp Suite to /Applications...\n"
+curl https://portswigger.net/DownloadUpdate.ashx\?Product\=Free -o /Applications/BurpSuite.jar
+echo "\nDone!\n"
