@@ -10,3 +10,6 @@
 [submodule "subbrute"]
 	path = subbrute
 	url = https://github.com/TheRook/subbrute
+[submodule "jexboss"]
+	path = jexboss
+	url = https://github.com/joaomatosf/jexboss.git
