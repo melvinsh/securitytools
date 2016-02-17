@@ -3,6 +3,7 @@ Diverse tools voor pentesten en netwerkscans.
 
 - BurpToggle - OS X tool om Burp proxy snel aan/uit te zetten.
 - dirsearch - Directory/file brute force.
+- jexboss - Jboss verify and EXploitation Tool.
 - lists - Directory/file name lijsten (gesorteerd op meest voorkomend).
 - subbrute - Subdomein brute force.
 - wpscan - Wordpress scanner.
