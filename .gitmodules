@@ -22,3 +22,6 @@
 [submodule "oxml_xxe"]
 	path = oxml_xxe
 	url = https://github.com/BuffaloWill/oxml_xxe
+[submodule "ssrf_proxy"]
+	path = ssrf_proxy
+	url = https://github.com/bcoles/ssrf_proxy
