@@ -19,3 +19,6 @@
 [submodule "nmap"]
 	path = nmap
 	url = https://github.com/nmap/nmap
+[submodule "oxml_xxe"]
+	path = oxml_xxe
+	url = https://github.com/BuffaloWill/oxml_xxe
