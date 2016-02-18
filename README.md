@@ -7,6 +7,10 @@ Diverse tools voor pentesten en netwerkscans.
 - lists - Directory/file name lijsten (gesorteerd op meest voorkomend).
 - subbrute - Subdomein brute force.
 - wpscan - Wordpress scanner.
+- nmap - you should know what it is. But if you don't know it. Nmap scans things
+- oxml_xxe - Genereer proof of concepts for XXE kwetsbaarheden
+- GitTools - /.git/ open? Time to get it back!
+- ssrf_proxy - Proxy voor SSRF vulnerabilities
 - XSS.payload.html - Goede XSS payloads.
 - cors_exploit - HTML5 CORS policy misconfiguration exploit PoC.
 - install_burp - Burp (Free) install script voor OS X.
