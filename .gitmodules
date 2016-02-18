@@ -13,3 +13,6 @@
 [submodule "jexboss"]
 	path = jexboss
 	url = https://github.com/joaomatosf/jexboss.git
+[submodule "gitTools"]
+	path = gitTools
+	url = https://github.com/internetwache/GitTools
