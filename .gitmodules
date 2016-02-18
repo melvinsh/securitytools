@@ -16,3 +16,6 @@
 [submodule "gitTools"]
 	path = gitTools
 	url = https://github.com/internetwache/GitTools
+[submodule "nmap"]
+	path = nmap
+	url = https://github.com/nmap/nmap
