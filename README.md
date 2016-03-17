@@ -17,6 +17,7 @@ Diverse tools voor pentesten en netwerkscans.
 - serve - Snel een lokale HTTP server in een directory.
 - testssl.sh - Qualys-achtige SSL tester.
 - top-1m.csv.zip - Top 1m passwords lijst.
+- HTTPLeaks - All possible ways, a website can leak HTTP requests
 
 ## Ophalen en bijdragen
 Om alle submodules direct binnen te halen:

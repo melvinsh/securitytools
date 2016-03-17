@@ -25,3 +25,6 @@
 [submodule "ssrf_proxy"]
 	path = ssrf_proxy
 	url = https://github.com/bcoles/ssrf_proxy
+[submodule "HTTPLeaks"]
+	path = HTTPLeaks
+	url = https://github.com/cure53/HTTPLeaks
