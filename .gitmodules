@@ -1,30 +1,30 @@
 [submodule "wpscan"]
-	path = wpscan
+	path = webapps/wpscan
 	url = https://github.com/wpscanteam/wpscan.git
 [submodule "BurpToggle"]
-	path = BurpToggle
+	path = general/BurpToggle
 	url = https://github.com/melvinsh/BurpToggle.git
 [submodule "dirsearch"]
-	path = dirsearch
+	path = webapps/dirsearch
 	url = https://github.com/maurosoria/dirsearch.git
 [submodule "subbrute"]
-	path = subbrute
+	path = networks/subbrute
 	url = https://github.com/TheRook/subbrute
 [submodule "jexboss"]
-	path = jexboss
+	path = webapps/jexboss
 	url = https://github.com/joaomatosf/jexboss.git
 [submodule "gitTools"]
-	path = gitTools
+	path = webapps/gitTools
 	url = https://github.com/internetwache/GitTools
 [submodule "nmap"]
-	path = nmap
+	path = networks/nmap
 	url = https://github.com/nmap/nmap
 [submodule "oxml_xxe"]
-	path = oxml_xxe
+	path = webapps/oxml_xxe
 	url = https://github.com/BuffaloWill/oxml_xxe
 [submodule "ssrf_proxy"]
-	path = ssrf_proxy
+	path = webapps/ssrf_proxy
 	url = https://github.com/bcoles/ssrf_proxy
 [submodule "HTTPLeaks"]
-	path = HTTPLeaks
+	path = webapps/HTTPLeaks
 	url = https://github.com/cure53/HTTPLeaks
