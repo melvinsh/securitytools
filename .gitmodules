@@ -28,3 +28,6 @@
 [submodule "HTTPLeaks"]
 	path = webapps/HTTPLeaks
 	url = https://github.com/cure53/HTTPLeaks
+[submodule "networks/subresolve"]
+	path = networks/subresolve
+	url = https://github.com/melvinsh/subresolve
