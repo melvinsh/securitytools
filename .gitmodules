@@ -31,3 +31,6 @@
 [submodule "networks/subresolve"]
 	path = networks/subresolve
 	url = https://github.com/melvinsh/subresolve
+[submodule "networks/sublister"]
+	path = networks/sublister
+	url = https://github.com/aboul3la/Sublist3r
