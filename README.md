@@ -1,23 +1,40 @@
 # tools
 Diverse tools voor pentesten en netwerkscans.
 
-- BurpToggle - OS X tool om Burp proxy snel aan/uit te zetten.
-- dirsearch - Directory/file brute force.
-- jexboss - Jboss verify and EXploitation Tool.
-- lists - Directory/file name lijsten (gesorteerd op meest voorkomend).
-- subbrute - Subdomein brute force.
-- wpscan - Wordpress scanner.
-- nmap - you should know what it is. But if you don't know it. Nmap scans things
-- oxml_xxe - Genereer proof of concepts for XXE kwetsbaarheden
-- GitTools - /.git/ open? Time to get it back!
-- ssrf_proxy - Proxy voor SSRF vulnerabilities
-- XSS.payload.html - Goede XSS payloads.
-- cors_exploit - HTML5 CORS policy misconfiguration exploit PoC.
-- install_burp - Burp (Free) install script voor OS X.
-- serve - Snel een lokale HTTP server in een directory.
-- testssl.sh - Qualys-achtige SSL tester.
-- top-1m.csv.zip - Top 1m passwords lijst.
-- HTTPLeaks - All possible ways, a website can leak HTTP requests
+```
+├── general
+│   ├── BurpToggle                          # Burp Suite aan/uit switch voor OS X.
+│   ├── install_burp                        # Installeer Burp Suite Free.
+│   └── serve                               # Lokale HTTP server.
+├── lists
+│   ├── directory-list-2.3-big.txt
+│   ├── directory-list-2.3-medium.txt
+│   ├── directory-list-2.3-small.txt
+│   ├── directory-list-lowercase-2.3-big.txt
+│   ├── directory-list-lowercase-2.3-medium.txt          # Aanbevolen voor HTTP bruteforce!
+│   ├── directory-list-lowercase-2.3-small.txt
+│   └── top-1m.csv.zip
+├── networks
+│   ├── nmap                                 # Beste poortscanner.
+│   ├── subbrute                             # Bruteforce subdomais.
+│   ├── sublister                            # Subdomain discovery/bruteforce.
+│   ├── subresolve                           # Test output van bovenstaande tools .
+│   └── testssl.sh                           # Lokale Qualys SSL labs.
+└── webapps
+    ├── HTTPLeaks                            # Hoe kunnen HTTP requests lekken in HTML?
+    ├── XSS.payload.html                     # XSS payloads.
+    ├── cors_exploit.html                    # Voorbeeld van CORS exploit.
+    ├── cors_exploit2.html                   # & nog 1.
+    ├── dirsearch                            # Directory bruteforce.
+    ├── gitTools                             # Probeert open .git directory van webserver te halen.
+    ├── jexboss                              # Pwn jboss.
+    ├── jquery_pre_3_poc.html                # jQuery vulnerability.
+    ├── oxml_xxe                             # XXE tool.
+    ├── schema.svg                           # XSS in een SVG.
+    ├── ssrf_proxy                           # Tunnel HTTP door SSRF vuln site.
+    ├── uber.gif                             # DoS GIF.
+    └── wpscan                               # Wordpress scanner.
+```
 
 ## Ophalen en bijdragen
 Om alle submodules direct binnen te halen:
