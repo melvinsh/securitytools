@@ -34,3 +34,6 @@
 [submodule "networks/sublister"]
 	path = networks/sublister
 	url = https://github.com/aboul3la/Sublist3r
+[submodule "webapps/whatweb"]
+	path = webapps/whatweb
+	url = https://github.com/urbanadventurer/WhatWeb.git

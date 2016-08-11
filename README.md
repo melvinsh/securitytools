@@ -33,7 +33,8 @@ Diverse tools voor pentesten en netwerkscans.
     ├── schema.svg                           # XSS in een SVG.
     ├── ssrf_proxy                           # Tunnel HTTP door SSRF vuln site.
     ├── uber.gif                             # DoS GIF.
-    └── wpscan                               # Wordpress scanner.
+    ├── wpscan                               # Wordpress scanner.
+    ├── whatweb                              # Web fingerprinting.
 ```
 
 ## Ophalen en bijdragen
