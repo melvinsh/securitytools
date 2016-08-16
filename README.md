@@ -15,8 +15,9 @@ Diverse tools voor pentesten en netwerkscans.
 │   ├── directory-list-lowercase-2.3-small.txt
 │   └── top-1m.csv.zip
 ├── local
-│   ├── LinEnum                              # Scripted Local Linux Enumeration & Priv checks
-│   └── linux-mustread                       # Artikel over Linux privilege escalation.
+│   ├── LinEnum                              # Scripted Local Linux Enumeration & Priv checks.
+│   ├── linux-mustread                       # Artikel over Linux privilege escalation.
+│   └── lynis                                # Local scanner for Linux, Mac OS, and Unix.
 ├── networks
 │   ├── nmap                                 # Beste poortscanner.
 │   ├── subbrute                             # Bruteforce subdomais.

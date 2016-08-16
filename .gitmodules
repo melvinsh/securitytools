@@ -40,3 +40,6 @@
 [submodule "local/LinEnum"]
 	path = local/LinEnum
 	url = https://github.com/rebootuser/LinEnum
+[submodule "local/lynis"]
+	path = local/lynis
+	url = https://github.com/CISOfy/lynis.git
