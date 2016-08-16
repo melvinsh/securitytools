@@ -43,3 +43,6 @@
 [submodule "local/lynis"]
 	path = local/lynis
 	url = https://github.com/CISOfy/lynis.git
+[submodule "local/PowerSploit"]
+	path = local/PowerSploit
+	url = https://github.com/PowerShellMafia/PowerSploit.git

@@ -17,7 +17,8 @@ Diverse tools voor pentesten en netwerkscans.
 ├── local
 │   ├── LinEnum                              # Scripted Local Linux Enumeration & Priv checks.
 │   ├── linux-mustread                       # Artikel over Linux privilege escalation.
-│   └── lynis                                # Local scanner for Linux, Mac OS, and Unix.
+│   ├── lynis                                # Local scanner for Linux, Mac OS, and Unix.
+│   └── PowerSploit                          # Windows PowerShell exploitation.
 ├── networks
 │   ├── nmap                                 # Beste poortscanner.
 │   ├── subbrute                             # Bruteforce subdomais.
