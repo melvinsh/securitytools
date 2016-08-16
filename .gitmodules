@@ -37,3 +37,6 @@
 [submodule "webapps/whatweb"]
 	path = webapps/whatweb
 	url = https://github.com/urbanadventurer/WhatWeb.git
+[submodule "local/LinEnum"]
+	path = local/LinEnum
+	url = https://github.com/rebootuser/LinEnum
