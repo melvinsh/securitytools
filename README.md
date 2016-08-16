@@ -14,6 +14,8 @@ Diverse tools voor pentesten en netwerkscans.
 │   ├── directory-list-lowercase-2.3-medium.txt          # Aanbevolen voor HTTP bruteforce!
 │   ├── directory-list-lowercase-2.3-small.txt
 │   └── top-1m.csv.zip
+├── local
+│   └── linux-mustread                       # Artikel over Linux privilege escalation.
 ├── networks
 │   ├── nmap                                 # Beste poortscanner.
 │   ├── subbrute                             # Bruteforce subdomais.
@@ -34,7 +36,7 @@ Diverse tools voor pentesten en netwerkscans.
     ├── ssrf_proxy                           # Tunnel HTTP door SSRF vuln site.
     ├── uber.gif                             # DoS GIF.
     ├── wpscan                               # Wordpress scanner.
-    ├── whatweb                              # Web fingerprinting.
+    └── whatweb                              # Web fingerprinting.
 ```
 
 ## Ophalen en bijdragen
