@@ -46,3 +46,6 @@
 [submodule "local/PowerSploit"]
 	path = local/PowerSploit
 	url = https://github.com/PowerShellMafia/PowerSploit.git
+[submodule "mobile/ssl-kill-switch2"]
+	path = mobile/ssl-kill-switch2
+	url = https://github.com/nabla-c0d3/ssl-kill-switch2.git

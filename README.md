@@ -19,6 +19,8 @@ Diverse tools voor pentesten en netwerkscans.
 │   ├── linux-mustread                       # Artikel over Linux privilege escalation.
 │   ├── lynis                                # Local scanner for Linux, Mac OS, and Unix.
 │   └── PowerSploit                          # Windows PowerShell exploitation.
+├── mobile
+│   ├── ssl-kill-switch2                     # Stop SSL certificate pinning in iOS.
 ├── networks
 │   ├── nmap                                 # Beste poortscanner.
 │   ├── subbrute                             # Bruteforce subdomais.
