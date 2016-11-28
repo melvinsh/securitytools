@@ -22,6 +22,7 @@ Diverse tools voor pentesten en netwerkscans.
 ├── mobile
 │   ├── ssl-kill-switch2                     # Stop SSL certificate pinning in iOS.
 ├── networks
+│   ├── aws_pwn                              # Tools voor AWS hacking.
 │   ├── nmap                                 # Beste poortscanner.
 │   ├── subbrute                             # Bruteforce subdomais.
 │   ├── sublister                            # Subdomain discovery/bruteforce.

@@ -49,3 +49,6 @@
 [submodule "mobile/ssl-kill-switch2"]
 	path = mobile/ssl-kill-switch2
 	url = https://github.com/nabla-c0d3/ssl-kill-switch2.git
+[submodule "networks/aws_pwn"]
+	path = networks/aws_pwn
+	url = https://github.com/dagrz/aws_pwn
