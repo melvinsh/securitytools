@@ -28,21 +28,25 @@ Diverse tools voor pentesten en netwerkscans.
 │   ├── sublister                            # Subdomain discovery/bruteforce.
 │   ├── subresolve                           # Test output van bovenstaande tools .
 │   └── testssl.sh                           # Lokale Qualys SSL labs.
-└── webapps
-    ├── HTTPLeaks                            # Hoe kunnen HTTP requests lekken in HTML?
-    ├── XSS.payload.html                     # XSS payloads.
-    ├── cors_exploit.html                    # Voorbeeld van CORS exploit.
-    ├── cors_exploit2.html                   # & nog 1.
-    ├── dirsearch                            # Directory bruteforce.
-    ├── gitTools                             # Probeert open .git directory van webserver te halen.
-    ├── jexboss                              # Pwn jboss.
-    ├── jquery_pre_3_poc.html                # jQuery vulnerability.
-    ├── oxml_xxe                             # XXE tool.
-    ├── schema.svg                           # XSS in een SVG.
-    ├── ssrf_proxy                           # Tunnel HTTP door SSRF vuln site.
-    ├── uber.gif                             # DoS GIF.
-    ├── wpscan                               # Wordpress scanner.
-    └── whatweb                              # Web fingerprinting.
+├── webapps
+│   ├── HTTPLeaks                            # Hoe kunnen HTTP requests lekken in HTML?
+│   ├── XSS.payload.html                     # XSS payloads.
+│   ├── cors_exploit.html                    # Voorbeeld van CORS exploit.
+│   ├── cors_exploit2.html                   # & nog 1.
+│   ├── dirsearch                            # Directory bruteforce.
+│   ├── gitTools                             # Probeert open .git directory van webserver te halen.
+│   ├── jexboss                              # Pwn jboss.
+│   ├── jquery_pre_3_poc.html                # jQuery vulnerability.
+│   ├── oxml_xxe                             # XXE tool.
+│   ├── schema.svg                           # XSS in een SVG.
+│   ├── ssrf_proxy                           # Tunnel HTTP door SSRF vuln site.
+│   ├── uber.gif                             # DoS GIF.
+│   ├── wpscan                               # Wordpress scanner.
+│   └── whatweb                              # Web fingerprinting.
+└── wireless
+    ├── WiFi-Pumpkin                         # GUI voor Wifi attacks.
+    ├── airgeddon                            # Bash script om Wifi attacks te automatiseren. 
+    └── fluxion                              # MITM WPA aanvallen.
 ```
 
 ## Ophalen en bijdragen
