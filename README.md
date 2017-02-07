@@ -7,6 +7,7 @@ Diverse tools voor pentesten en netwerkscans.
 │   ├── install_burp                        # Installeer Burp Suite Free.
 │   └── serve                               # Lokale HTTP server.
 ├── lists
+│   ├── SecLists                            # Hele boel lijstjes.
 │   ├── directory-list-2.3-big.txt
 │   ├── directory-list-2.3-medium.txt
 │   ├── directory-list-2.3-small.txt

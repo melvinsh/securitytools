@@ -61,3 +61,6 @@
 [submodule "wireless/WiFi-Pumpkin"]
 	path = wireless/WiFi-Pumpkin
 	url = https://github.com/P0cL4bs/WiFi-Pumpkin.git
+[submodule "lists/SecLists"]
+	path = lists/SecLists
+	url = https://github.com/danielmiessler/SecLists.git
