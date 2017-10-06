@@ -52,9 +52,6 @@
 [submodule "networks/aws_pwn"]
 	path = networks/aws_pwn
 	url = https://github.com/dagrz/aws_pwn
-[submodule "wireless/fluxion"]
-	path = wireless/fluxion
-	url = https://github.com/deltaxflux/fluxion.git
 [submodule "wireless/airgeddon"]
 	path = wireless/airgeddon
 	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
