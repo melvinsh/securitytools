@@ -1,0 +1,12 @@
+command -v pip >/dev/null 2>&1 || { 
+  echo >&2 "I require pip but it's not installed. Aborting."; 
+  exit 1; 
+}
+
+command -v npm >/dev/null 2>&1 || { 
+  echo >&2 "I require npm but it's not installed. Aborting."; 
+  exit 1; 
+}
+
+pip install --user frida    # CLI tools and Python bindings
+npm install frida           # Node.js bindings
