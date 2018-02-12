@@ -61,3 +61,6 @@
 [submodule "lists/SecLists"]
 	path = lists/SecLists
 	url = https://github.com/danielmiessler/SecLists.git
+[submodule "mobile/AndroTickler"]
+	path = mobile/AndroTickler
+	url = git@github.com:ernw/AndroTickler.git
