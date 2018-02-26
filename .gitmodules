@@ -64,3 +64,6 @@
 [submodule "mobile/AndroTickler"]
 	path = mobile/AndroTickler
 	url = git@github.com:ernw/AndroTickler.git
+[submodule "webapps/LinkFinder"]
+	path = webapps/LinkFinder
+	url = git@github.com:GerbenJavado/LinkFinder.git
