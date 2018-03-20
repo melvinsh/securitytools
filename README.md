@@ -53,12 +53,12 @@ Diverse tools voor pentesten en netwerkscans.
 ## Ophalen en bijdragen
 Om alle submodules direct binnen te halen:
 ```
-git clone --recursive git@github.com:InsiteSecurity/tools.git
+git clone --recursive git@github.com:melvinsh/securitytools.git
 ```
 
 Voorbeeld van submodule toevoegen:
 ```
-git submodule add https://github.com/melvinsh/BurpToggle.git BurpToggle
+git submodule add git@github.com:melvinsh/securitytools.git BurpToggle
 git add .gitmodules BurpToggle
 git commit -m "add BurpToggle"
 git push
